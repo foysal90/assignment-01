@@ -32,5 +32,27 @@
   .footer {
       background-color: rgb(229, 210, 243);
   }
+
+  .web-dev {
+    background-color: rgb(243, 229, 231);
+    margin-top: -20px;
+  }
+
+  .main-head {
+    text-align: center;
+  }
+
+  .code {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    padding-top: 40px;
+  }
   
+
+  .btn-dev {
+    padding: 15px ;
+    background-color: #fff;
+    width: 200px;
+  }
   
