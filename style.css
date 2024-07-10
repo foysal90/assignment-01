@@ -1,0 +1,17 @@
+.head {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .banner {
+      background-image: url('./images/Hero-bg.png');
+      text-align: center;
+  }
+  
+  .btn {
+      background-color: black;
+      color: white;
+      padding: 20px;
+  }
+  
+  
