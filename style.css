@@ -1,6 +1,14 @@
 .head {
     display: flex;
     justify-content: space-around;
+   box-shadow: 5px 5px 15px  rgb(241, 229, 229);
+   border-bottom: 5px solid white;
+   padding: 10px;
+  }
+  .head > button {
+    width: 200px ;
+    text-decoration: none;
+    border-style: none;
   }
   
   .banner {
@@ -11,8 +19,11 @@
   .btn {
       background-color: black;
       color: white;
-      padding: 20px;
-  }
+      padding: 10px 25px;
+      border-radius: 7px;
+      margin-bottom: 10px;
+    
+}
 
   .social {
     display: flex;
@@ -35,7 +46,8 @@
 
   .web-dev {
     background-color: rgb(243, 229, 231);
-    margin-top: -20px;
+    margin: 50px;
+    padding: 20px;
   }
 
   .main-head {
