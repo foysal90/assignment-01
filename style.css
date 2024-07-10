@@ -45,7 +45,7 @@
   .code {
     display: flex;
     justify-content: space-around;
-    background-color: #fff;
+    background-color: rgb(220, 220, 220);
     padding-top: 40px;
   }
   
@@ -55,4 +55,17 @@
     background-color: #fff;
     width: 200px;
   }
+
+/* inspiration section */
+  .inspiration {
+    text-align: center;
+    margin: 45px;
+  }
+
+  .inspiration-video {
+    margin-top: 45px;
+    
+  }
+
+ 
   
