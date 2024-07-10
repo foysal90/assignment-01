@@ -13,5 +13,24 @@
       color: white;
       padding: 20px;
   }
+
+  .social {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .list > li {
+    display: inline;
+    margin-left: 15px;
+   
+  }
+  .list > li > a {
+   
+    text-decoration: none;
+  }
+  
+  .footer {
+      background-color: rgb(229, 210, 243);
+  }
   
   
